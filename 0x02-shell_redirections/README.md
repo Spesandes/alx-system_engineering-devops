@@ -13,3 +13,4 @@
 12-newest_files: This script displays the 10 newest files in the current directory
 13-unique: This script displays unique entries in a list
 14-findthatword: This script finds the lines containing the word root inside the /etc/passwd file
+15-countthatword: This script counts the number of lines containing the word bin in the /etc/passwd file
