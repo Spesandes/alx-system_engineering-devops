@@ -6,3 +6,4 @@
 5-firstlines: This script prints the first 10 lines of the /etc/passwd file to stdout
 6-third_line: This script prints the third line of the iacta file
 7-file: This script creates a file titled with characters with some text in it
+8-cwd_state: This script writes the results of ls -la to the file ls_cwd_content
