@@ -1,1 +1,5 @@
-3-twofiles: This script prints out the /etc/passwd and the /etc/hosts filesto stdout
+0-hello_world: Thish script prints "Hello, World" to the standard output
+1-confused_smiley: This script prints a confused smiley to standard output
+2-hellofile: This script displays the content of the /etc/passwd file to stdout
+3-twofiles: This script prints both the contents of /etc/passwd and /etc/hosts to stdout
+4-lastlines: This script displays the last 10 lines of the /etc/passwd file
