@@ -1,0 +1,5 @@
+#!/bin/bash
+test(){
+	chmod +x $1
+}
+test $1
